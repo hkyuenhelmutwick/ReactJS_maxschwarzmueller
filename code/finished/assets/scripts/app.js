@@ -1,26 +1,12 @@
-const user = {
-  name: "Max",
-  age: 34,
-  greet() {
-    console.log("Hello!");
-    console.log(this.age);
-  }
-};
+const hobbies = ["Sports", "Cooking", "Reading"];
+console.log(hobbies[0]);
 
-console.log(user.name);
-user.greet();
+hobbies.push("Working");
+console.log(hobbies);
 
-class User {
-  constructor(name, age) {
-    this.name = name;
-    this.age = age;
-  }
+const index = hobbies.findIndex((item) => item === "Sports");
 
-  greet() {
-    console.log("Hi!");
-  }
-}
+console.log(index);
 
-const user1 = new User("Manuel", 35);
-console.log(user1);
-user1.greet();
+const editedHobbies = hobbies.map((item) => ({ text: item }));
+console.log(editedHobbies);
