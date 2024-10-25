@@ -1,4 +1,1 @@
-// const userMessage = "Hello World!!!";
-let userMessage = "Hello World!!!";
-
-console.log(userMessage);
+console.log(10 + 5);
