@@ -36,12 +36,12 @@
     "image": "laptop-on-desk.jpg"
   },
   {
-    "id": "140",
+    "id": "3237",
     "title": "Tech Meetup",
-    "description": "Meet awesome people and find new friends.",
-    "date": "2024-03-30",
-    "time": "19:00",
-    "location": "React Street, 12345 Some Place",
-    "image": "meeting-networking.jpg"
+    "description": "Hang out outside and meet nice people",
+    "date": "2023-08-20",
+    "time": "13:20",
+    "location": "A park",
+    "image": "park.jpg"
   }
 ]
