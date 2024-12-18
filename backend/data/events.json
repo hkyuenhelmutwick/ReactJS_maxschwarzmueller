@@ -34,14 +34,5 @@
     "time": "18:30",
     "location": "Learning Labs, Austin, TX",
     "image": "laptop-on-desk.jpg"
-  },
-  {
-    "id": "3237",
-    "title": "Tech Meetup",
-    "description": "Hang out outside and meet nice people",
-    "date": "2023-08-20",
-    "time": "13:20",
-    "location": "A park",
-    "image": "park.jpg"
   }
 ]
